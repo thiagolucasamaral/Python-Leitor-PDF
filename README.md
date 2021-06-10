@@ -9,4 +9,6 @@ BIBLIOTECAS UTILIZADAS:
 
 PyPDF2;
 
-pyttsx3.
+pyttsx3;
+
+Jupyter Notebook.
